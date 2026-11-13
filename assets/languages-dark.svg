@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" role="img" aria-labelledby="t">
-  <title id="t">Languages: Go, PHP</title>
+  <title id="t">Languages: Go, PHP, JavaScript</title>
   <style>
     text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif}
     .h{font-size:18px;font-weight:600;fill:#ffffff}
@@ -11,4 +11,6 @@
   <text class="l" x="47" y="83">Go</text>
   <circle cx="31" cy="115" r="6" fill="#4F5D95"/>
   <text class="l" x="47" y="121">PHP</text>
+  <circle cx="31" cy="153" r="6" fill="#f1e05a"/>
+  <text class="l" x="47" y="159">JavaScript</text>
 </svg>

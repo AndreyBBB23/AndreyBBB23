@@ -14,9 +14,10 @@ Backend engineer working across the full stack of backend concerns: distributed 
 
 | Area | Stack |
 |---|---|
-| Languages | Go, PHP (Laravel, Yii2) |
+| Languages | Go, PHP (Laravel, Yii2), JavaScript |
 | Data | PostgreSQL, MySQL, Redis, Elasticsearch |
 | Messaging | RabbitMQ |
+| Architecture | Microservice architecture, API gateway, Messaging, Domain event, Transactional outbox, CQRS, Event sourcing |
 | API | REST, gRPC, GraphQL |
 | DevOps | Docker, Kubernetes, GitHub Actions |
 | AWS | EKS, ECR, S3, SQS, Kinesis, Lambda, Glue, Athena, Route 53 |
@@ -31,7 +32,7 @@ Backend engineer working across the full stack of backend concerns: distributed 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg">
-  <img alt="Languages: Go, PHP" src="./assets/languages-light.svg">
+  <img alt="Languages: Go, PHP, JavaScript" src="./assets/languages-light.svg">
 </picture>
 
 <picture>
