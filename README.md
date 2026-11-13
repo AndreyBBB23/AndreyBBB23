@@ -1,23 +1,51 @@
-### 👋 Hi everyone!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+  <img alt="Andrei Biareshchanka, Backend Engineer (Go, PHP)" src="./assets/terminal-dark.svg">
+</picture>
 
-I am an experienced Laravel/Yii2 developer who always provides clients with clean, well-structured and easy-to-maintain code in the required time frame ⌚ Let's make our world a better, together!
+## About
 
-## What can I do for you:
+Backend engineer working across the full stack of backend concerns: distributed systems, microservices, cloud infrastructure on AWS, API design and DevOps practices. I design and build resilient backend systems in Go and PHP, make architectural decisions, and get into the details when it matters. 7+ years in backend development.
 
-- 📍 Develop an adaptive website or web application
-- 📍 Find and fix bugs that are in the current website or web application
-- 📍 Increase the speed of the current project, Laravel / Yii2 framework
-- 📍 Provide further maintenance
+## Tech stack
 
-## 💎 My Skills:
+<img alt="Go, PHP, Laravel, PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ, Docker, Kubernetes, GitHub Actions, GraphQL, AWS" src="./assets/skills.svg">
 
-* ✅ PHP 5/7, PHP 8
-* ✅ Laravel 7 & 8, Yii2
-* ✅ WP, Elementor, WooCommerce, E-commerce store
-* ✅ OpenCart 2 & 3, Joomla, Bitrix, Tilda
-* ✅ HTML5, HTML, CSS, CSS3, SASS/SCSS
-* ✅ JavaScript, jQuery, Ajax
-* ✅ Figma, Sketch, Invision, AdobeXD
-* ✅ SQL, MySQL, PostgreSQL
-* ✅ Redis, Docker
-* ✅ Git, GitLab, Bitbucket
+| Area | Stack |
+|---|---|
+| Languages | Go, PHP (Laravel, Yii2) |
+| Data | PostgreSQL, MySQL, Redis, Elasticsearch |
+| Messaging | RabbitMQ |
+| API | REST, gRPC, GraphQL |
+| DevOps | Docker, Kubernetes, GitHub Actions |
+| AWS | EKS, ECR, S3, SQS, Kinesis, Lambda, Glue, Athena, Route 53 |
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+  <img alt="GitHub stats" src="./profile/stats.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg">
+  <img alt="Languages: Go, PHP" src="./assets/languages-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/streak.svg">
+  <img alt="GitHub contribution streak" src="./profile/streak.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreyBBB23/AndreyBBB23/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreyBBB23/AndreyBBB23/output/github-snake.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/AndreyBBB23/AndreyBBB23/output/github-snake.svg">
+</picture>
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/andrei-biareshchanka-90282919a)

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" role="img" aria-labelledby="t">
+  <title id="t">Languages: Go, PHP</title>
+  <style>
+    text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif}
+    .h{font-size:18px;font-weight:600;fill:#2f80ed}
+    .l{font-size:16px;font-weight:600;fill:#434d58}
+  </style>
+  <rect x="0.5" y="0.5" width="299" height="194" rx="4.5" fill="#fffefe"/>
+  <text class="h" x="25" y="35">Languages</text>
+  <circle cx="31" cy="77" r="6" fill="#00ADD8"/>
+  <text class="l" x="47" y="83">Go</text>
+  <circle cx="31" cy="115" r="6" fill="#4F5D95"/>
+  <text class="l" x="47" y="121">PHP</text>
+</svg>

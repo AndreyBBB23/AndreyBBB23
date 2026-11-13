@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="224" viewBox="0 0 760 224" role="img" aria-labelledby="t d">
+  <title id="t">Andrei Biareshchanka, Backend Engineer</title>
+  <desc id="d">Terminal: whoami prints Andrei Biareshchanka, Backend Engineer; cat stack.txt prints Go, PHP, PostgreSQL, Kubernetes, AWS.</desc>
+  <style>
+    .bg{fill:#0d1117}
+    .bar{fill:#161b22}
+    .frame{fill:none;stroke:#30363d}
+    .cover{fill:#0d1117}
+    text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace;font-size:15px;fill:#e6edf3;white-space:pre}
+    .title{font-size:12px;fill:#8b949e}
+    .ps{fill:#3fb950;font-weight:700}
+    .name{fill:#58a6ff;font-weight:700}
+    .dim{fill:#8b949e}
+    .cur{fill:#e6edf3}
+    .show{animation:show .01s linear both}
+    .l2{animation-delay:1.6s}
+    .l3{animation-delay:2s}
+    .l4{animation-delay:3.7s}
+    .l5{animation-delay:4.1s}
+    .k1{animation:type1 .8s steps(6,end) .5s both,hide .01s linear 1.4s both}
+    .k2{animation:type2 1.3s steps(13,end) 2.3s both,hide .01s linear 3.7s both}
+    .blink{animation:blink 1s step-end 4.1s infinite}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes hide{from{opacity:1}to{opacity:0}}
+    @keyframes type1{from{transform:translateX(0)}to{transform:translateX(54px)}}
+    @keyframes type2{from{transform:translateX(0)}to{transform:translateX(117px)}}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){
+      .show,.blink{animation:none}
+      .k1,.k2{display:none}
+    }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="759" height="223" rx="10"/>
+  <path class="bar" d="M10.5 0.5h739a10 10 0 0 1 10 10v25.5h-759v-25.5a10 10 0 0 1 10-10z"/>
+  <rect class="frame" x="0.5" y="0.5" width="759" height="223" rx="10"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text class="title" x="380" y="22" text-anchor="middle">~/AndreyBBB23 — bash</text>
+
+  <text class="ps" x="24" y="72">$</text>
+  <text x="42" y="72">whoami</text>
+  <g class="k1">
+    <rect class="cover" x="42" y="55" width="320" height="24"/>
+    <rect class="cur" x="42" y="58" width="9" height="18"/>
+  </g>
+
+  <text class="show l2" x="24" y="98"><tspan class="name">Andrei Biareshchanka</tspan><tspan class="dim">, </tspan>Backend Engineer</text>
+
+  <g class="show l3">
+    <text class="ps" x="24" y="132">$</text>
+    <text x="42" y="132">cat stack.txt</text>
+    <g class="k2">
+      <rect class="cover" x="42" y="115" width="320" height="24"/>
+      <rect class="cur" x="42" y="118" width="9" height="18"/>
+    </g>
+  </g>
+
+  <text class="show l4" x="24" y="158">Go <tspan class="dim">&#183;</tspan> PHP <tspan class="dim">&#183;</tspan> PostgreSQL <tspan class="dim">&#183;</tspan> Kubernetes <tspan class="dim">&#183;</tspan> AWS</text>
+
+  <g class="show l5">
+    <text class="ps" x="24" y="192">$</text>
+    <rect class="cur blink" x="42" y="178" width="9" height="18"/>
+  </g>
+</svg>
