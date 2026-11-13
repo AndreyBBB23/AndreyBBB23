@@ -10,7 +10,7 @@ Software engineer working across the full stack of backend concerns: distributed
 
 ## Tech stack
 
-<img alt="Go, PHP, Laravel, PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ, Docker, Kubernetes, GitHub Actions, GraphQL, AWS" src="./assets/skills.svg">
+<img alt="Go, PHP, Laravel, Symfony, JavaScript, PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ, Docker, Kubernetes, GitHub Actions, GraphQL, AWS" src="./assets/skills.svg">
 
 | Area | Stack |
 |---|---|
