@@ -21,6 +21,7 @@ Software engineer working across the full stack of backend concerns: distributed
 | API | REST, gRPC, GraphQL |
 | AI | LLM integration (OpenAI, Anthropic Claude) |
 | DevOps | Docker, Kubernetes, GitHub Actions |
+| Observability | Datadog, Sentry, Lens |
 | Testing | Unit, integration and end-to-end testing |
 | AWS | EKS, ECR, S3, SQS, Kinesis, Lambda, Glue, Athena, Route 53 |
 
