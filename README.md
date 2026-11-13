@@ -20,6 +20,7 @@ Software engineer working across the full stack of backend concerns: distributed
 | Architecture | Microservice architecture, API gateway, Messaging, Domain event, Transactional outbox, CQRS, Event sourcing |
 | API | REST, gRPC, GraphQL |
 | DevOps | Docker, Kubernetes, GitHub Actions |
+| Testing | Unit, integration and end-to-end testing |
 | AWS | EKS, ECR, S3, SQS, Kinesis, Lambda, Glue, Athena, Route 53 |
 
 ## GitHub activity
