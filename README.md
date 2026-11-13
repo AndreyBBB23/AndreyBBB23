@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-  <img alt="Andrei Biareshchanka, Software Engineer (Go, PHP)" src="./assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Andrei Biareshchanka, Software Engineer (Go, PHP)" src="./assets/header-dark.svg">
 </picture>
 
 ## About
@@ -10,7 +10,7 @@ Software engineer working across the full stack of backend concerns: distributed
 
 ## Tech stack
 
-<img alt="Go, PHP, Laravel, Symfony, JavaScript, PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ, Docker, Kubernetes, GitHub Actions, GraphQL, AWS" src="./assets/skills.svg">
+<img alt="Go, PHP, Laravel, Symfony, JavaScript, PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ, Docker, Kubernetes, GitHub Actions, GraphQL, AWS" src="./assets/stack-icons.svg">
 
 | Area | Stack |
 |---|---|
@@ -31,9 +31,9 @@ Software engineer working across the full stack of backend concerns: distributed
   <img alt="GitHub stats" src="./profile/stats.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg">
-  <img alt="Languages: Go, PHP, JavaScript" src="./assets/languages-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/langs-light.svg">
+  <img alt="Languages: Go, PHP, JavaScript" src="./assets/langs-light.svg">
 </picture>
 
 <picture>
