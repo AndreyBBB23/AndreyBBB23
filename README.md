@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-  <img alt="Andrei Biareshchanka, Backend Engineer (Go, PHP)" src="./assets/terminal-dark.svg">
+  <img alt="Andrei Biareshchanka, Software Engineer (Go, PHP)" src="./assets/terminal-dark.svg">
 </picture>
 
 ## About
 
-Backend engineer working across the full stack of backend concerns: distributed systems, microservices, cloud infrastructure on AWS, API design and DevOps practices. I design and build resilient backend systems in Go and PHP, make architectural decisions, and get into the details when it matters. 7+ years in backend development.
+Software engineer working across the full stack of backend concerns: distributed systems, microservices, cloud infrastructure on AWS, API design and DevOps practices. I design and build resilient backend systems in Go and PHP, make architectural decisions, and get into the details when it matters. 8+ years in backend development.
 
 ## Tech stack
 
@@ -14,7 +14,7 @@ Backend engineer working across the full stack of backend concerns: distributed 
 
 | Area | Stack |
 |---|---|
-| Languages | Go, PHP (Laravel, Yii2), JavaScript |
+| Languages | Go, PHP (Laravel, Symfony, Yii2), JavaScript |
 | Data | PostgreSQL, MySQL, Redis, Elasticsearch |
 | Messaging | RabbitMQ |
 | Architecture | Microservice architecture, API gateway, Messaging, Domain event, Transactional outbox, CQRS, Event sourcing |

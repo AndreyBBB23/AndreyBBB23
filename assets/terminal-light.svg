@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="224" viewBox="0 0 760 224" role="img" aria-labelledby="t d">
-  <title id="t">Andrei Biareshchanka, Backend Engineer</title>
-  <desc id="d">Terminal: whoami prints Andrei Biareshchanka, Backend Engineer; cat stack.txt prints Go, PHP, PostgreSQL, Kubernetes, AWS.</desc>
+  <title id="t">Andrei Biareshchanka, Software Engineer</title>
+  <desc id="d">Terminal: whoami prints Andrei Biareshchanka, Software Engineer; cat stack.txt prints Golang, PHP, Microservices, Systems Design, Engineering Management.</desc>
   <style>
     .bg{fill:#ffffff}
     .bar{fill:#f6f8fa}
@@ -45,7 +45,7 @@
     <rect class="cur" x="42" y="58" width="9" height="18"/>
   </g>
 
-  <text class="show l2" x="24" y="98"><tspan class="name">Andrei Biareshchanka</tspan><tspan class="dim">, </tspan>Backend Engineer</text>
+  <text class="show l2" x="24" y="98"><tspan class="name">Andrei Biareshchanka</tspan><tspan class="dim">, </tspan>Software Engineer</text>
 
   <g class="show l3">
     <text class="ps" x="24" y="132">$</text>
@@ -56,7 +56,7 @@
     </g>
   </g>
 
-  <text class="show l4" x="24" y="158">Go <tspan class="dim">&#183;</tspan> PHP <tspan class="dim">&#183;</tspan> PostgreSQL <tspan class="dim">&#183;</tspan> Kubernetes <tspan class="dim">&#183;</tspan> AWS</text>
+  <text class="show l4" x="24" y="158">Golang <tspan class="dim">&#8226;</tspan> PHP <tspan class="dim">&#8226;</tspan> Microservices <tspan class="dim">&#8226;</tspan> Systems Design <tspan class="dim">&#8226;</tspan> Engineering Management</text>
 
   <g class="show l5">
     <text class="ps" x="24" y="192">$</text>
