@@ -19,6 +19,7 @@ Software engineer working across the full stack of backend concerns: distributed
 | Messaging | RabbitMQ |
 | Architecture | Microservice architecture, API gateway, Messaging, Domain event, Transactional outbox, CQRS, Event sourcing |
 | API | REST, gRPC, GraphQL |
+| AI | LLM integration (OpenAI, Anthropic Claude) |
 | DevOps | Docker, Kubernetes, GitHub Actions |
 | Testing | Unit, integration and end-to-end testing |
 | AWS | EKS, ECR, S3, SQS, Kinesis, Lambda, Glue, Athena, Route 53 |
